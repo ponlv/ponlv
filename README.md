@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help in learning about blockchain development and project management.
 - ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
 
-<a href="https://github.com/ponlv"><img align="right" src="/metrics/plugin.habits.facts.svg" alt="Pon Le"></a>
+<a href="https://github.com/ponlv"><img align="right" src="https://raw.githubusercontent.com/ponlv/github-stats-transparent/main/generated/overview.svg" alt="Pon Le"></a>
 
 
 #### Knowledges 💻
