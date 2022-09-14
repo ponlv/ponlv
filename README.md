@@ -1,21 +1,18 @@
-![](https://komarev.com/ghpvc/?username=Planxnx&color=5f4b8b&style=flat-square)
-[![Linkedin Badge](https://img.shields.io/badge/-Planxnx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/planxnx/)](https://www.linkedin.com/in/planxnx/)
-
 <div>
-  <a href="https://planxnx.dev"><img width=465px align="center" src="/metrics/main.svg" alt="Planxnx"></a>
-  <a href="https://planxnx.dev"><img width=345px align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/main/generated/languages.svg' alt="Planxnx" />
+  <a href="#"><img width=465px align="center" src="/metrics/main.svg" alt="Pon Le"></a>
+  <a href="#"><img width=345px align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/main/generated/languages.svg' alt="Planxnx" />
 </a>
 </div>
 <!--   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" /> -->
 
 #### Talking about Personal Stuffs 🎯
-- 🧑🏻‍💻 I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/). , owner of [planxnx.dev](https://planxnx.dev/) and full-time self developer✌🏻
+- 🧑🏻‍💻 I'm Pon . I'm a blockchain engineer, and full-time self developer✌🏻
 - 💻 I’m currently working on improving my techskill.
 - 🌱 I’m currently learning about system design and blockchain.
 - 🤔 I’m looking for help in learning about blockchain development and project management.
 - ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
 
-<a href="https://planxnx.dev"><img align="right" src="/metrics/plugin.habits.facts.svg" alt="Planxnx Habits"></a>
+<a href="https://planxnx.dev"><img align="right" src="/metrics/plugin.habits.facts.svg" alt="Pon Le"></a>
 
 
 #### Knowledges 💻
