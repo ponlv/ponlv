@@ -1,9 +1,8 @@
 <div>
-  <a href="#"><img width=465px align="center" src="/metrics/main.svg" alt="Pon Le"></a>
-  <a href="#"><img width=345px align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/main/generated/languages.svg' alt="Planxnx" />
+  <a href="https://github.com/ponlv"><img width=465px align="center" src="/metrics/main.svg" alt="Pon Le"></a>
+  <a href="https://github.com/ponlv"><img width=345px align="right" src='https://raw.githubusercontent.com/ponlv/github-stats-transparent/main/generated/languages.svg' alt="Planxnx" />
 </a>
 </div>
-<!--   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" /> -->
 
 #### Talking about Personal Stuffs 🎯
 - 🧑🏻‍💻 I'm Pon . I'm a blockchain engineer, and full-time self developer✌🏻
@@ -12,7 +11,7 @@
 - 🤔 I’m looking for help in learning about blockchain development and project management.
 - ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
 
-<a href="https://planxnx.dev"><img align="right" src="/metrics/plugin.habits.facts.svg" alt="Pon Le"></a>
+<a href="https://github.com/ponlv"><img align="right" src="/metrics/plugin.habits.facts.svg" alt="Pon Le"></a>
 
 
 #### Knowledges 💻
@@ -50,5 +49,5 @@ Bash                         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<a href="https://planxnx.dev"><img width=380px align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx"></a>
-<a href="https://planxnx.dev"><img width=410px align="left" src="/metrics/plugin.achivements.svg" alt="Planxnx"></a>
+<a href="https://github.com/ponlv"><img width=380px align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx"></a>
+<a href="https://github.com/ponlv"><img width=410px align="left" src="/metrics/plugin.achivements.svg" alt="Planxnx"></a>
