@@ -4,8 +4,6 @@
 </a>
 </div>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ponlv)
-
 #### Talking about Personal Stuffs 🎯
 - 🧑🏻‍💻 I'm Pon . I'm a blockchain engineer, and full-time self developer✌🏻
 - 💻 I’m currently working on improving my techskill.
