@@ -35,18 +35,6 @@
 #### Recently I'm coding in...
 
 <!--START_SECTION:waka-->
-
-```text
-From: 06 September 2022 - To: 13 September 2022
-
-Go                           ███████████████████░░░░░░   75.40 %
-TypeScript                   ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-JSON                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-YAML                         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-JavaScript                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-```
-
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/ponlv"><img width=380px align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx"></a>
